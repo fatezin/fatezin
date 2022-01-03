@@ -1,0 +1,3 @@
+- 👋 Olá, eu me chamo Mohamed
+- 👀 Atualmente tenho 19 anos
+- 🌱 Estudante de Programação javaScript back-end e front-end.
